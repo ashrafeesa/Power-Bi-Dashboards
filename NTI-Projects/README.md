@@ -36,14 +36,6 @@ It’s a full-blown retail intelligence system that lets you dive deep into:
 
 ---
 
-## 😂 Fun Facts
-
-- Debugged a chart at 3AM with coffee and existential dread ☕
-- Accidentally made a KPI card fly off the page (but it looked cool tbh)
-- Turned retail data into something actually exciting — take *that*, Excel!
-
----
-
 ## 📁 How to Use
 
 1. Download the `.pbix` file  
@@ -54,7 +46,7 @@ It’s a full-blown retail intelligence system that lets you dive deep into:
 
 ---
 
-## ❤️ Special Thanks
+## ❤ Special Thanks
 
 To my mentor (aka YouTube + ChatGPT), my sanity (barely), and to Power BI for being both a blessing and a source of deep pain 😅.
 
