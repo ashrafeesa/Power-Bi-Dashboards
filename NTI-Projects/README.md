@@ -60,13 +60,6 @@ To my mentor (aka YouTube + ChatGPT), my sanity (barely), and to Power BI for be
 
 ---
 
-## 🤝 Let's Connect
-
-- LinkedIn:( http://www.linkedin.com/in/marwan-mohamed-772449372 )
-- Portfolio: ( http://datascienceportfol.io/2305425 )
-
----
-
 ## ⭐ Give it a Star
 
 If you enjoyed this dashboard, give it a ⭐ on GitHub —  
